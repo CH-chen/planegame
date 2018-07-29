@@ -4,6 +4,8 @@ import pygame
 from pygame.locals import *
 import time
 '''
+
+飞机大战
 1.搭建界面，完成窗口喝背景图的显示
 '''
 #创建一个飞机类
